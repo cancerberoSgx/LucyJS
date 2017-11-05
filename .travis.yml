@@ -1,6 +1,4 @@
 language: node_js
-node_js:
-  - "9.0.0"
 
 # before_install:
 # - sudo apt-get update -qq
@@ -13,8 +11,10 @@ addons:
     sources:
       - ubuntu-toolchain-r-test
     packages:
-      - gcc-4.7
-      - g++-4.7
+      - gcc-7
+      - g++-7
+
+      
 
 before_install:
   - npm config set python `which python`
