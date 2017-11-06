@@ -4,6 +4,7 @@ const LUCY_INDEX = path.resolve("./test/res/lucy_index");
 
 describe("hits", () => {
   let index_searcher;
+  /** @type {Hits} */
   let hits;
   let schema
 
