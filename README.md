@@ -2,9 +2,10 @@
   <img src="https://i.imgur.com/N2JUrDr.png" width="300px"/>
 </p>
 
+[![Dependencies](https://david-dm.org/QuantamHD/LucyJS/.svg)](https://david-dm.org/QuantamHD/LucyJS/)
 
 # Lucy JS
-Lucy JS is a wrapper around the Apache Lucy search engine library. 
+Lucy JS is a wrapper around the [Apache Lucy](https://lucy.apache.org) search engine library. 
 
 [Project Home](https://github.com/QuantamHD/LucyJS)
 
